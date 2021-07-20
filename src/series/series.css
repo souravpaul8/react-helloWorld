@@ -1,0 +1,14 @@
+.year {
+    font-size: larger;
+    color: coral;
+  }
+
+  .featuredSeries {
+    border-radius: 2px;
+    background-color: rgb(255,190,166);
+  }
+
+  .photo {
+      height: 600px;
+      padding-right: 20px;
+  }
